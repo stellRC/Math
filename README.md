@@ -2,8 +2,13 @@
 
 A rather bounce-adverse golf ball - the same one that once blew through my grandparent's back windowpane some 20 years ago in upstate NY - was used to simulate the geometric series. By marking up the wall with tape and still present ink, the height of each bounce was measured. The ball dropped from an initial height of 30inches 3 times. The bounces in these trials were then averaged to produce the measured values used in finding the common ratio (r) representing loss of bounce energy. The average values for the bounce heights, including the initial drop height, were 30.0, 19.0, 11.3, 6.7, and 4.0. Visual parallax was accounted for by adding or subtracting an inch or so every few inches (or so) from the pre-average values. As such, the first bounce had two inches subtracted, the second had once inch subtracted, the third had once inch added, and the fourth had 2 inches added.  
 
+The given formula for r was used to find the ratio between each bounce. The average of these was then used to find the common ratio. 
 
-Using the given formula for r, the ratio was determined to be 0.6. Using proper summation notation, this can be modeled into a single infinite geometric series: 
+$$
+r = h_1 / h_0
+$$
+
+ This was determined to be 0.605 (when rounded). Using proper summation notation, this can be modeled into a single infinite geometric series: 
 
 $$
 \
