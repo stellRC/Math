@@ -23,13 +23,13 @@ $$
 ## Simulation
 Using the common ratio, this experiment was then simulated up to 20 bounces. The percent error between the theoretical value and the simulated one - 121.7 - was negligible, despite the large difference in bounce count due to the rapid decay in bounce height.  The measured distance between the simulation and the theoretical distance came out to 0.004. This could have been due to a rounding error. 
 
-![alt text](download.png)
+![alt text](img/download.png)
 
 On the other hand, simulating the ball bouncing five times  produced a percent error fo 10.1% with a total difference in value btw the theoretical value and the sim 12.246inches. The values in the sim [30.0, 18.135, 10.963, 6.627, 4.006] were slightly different from the initial measured values. 
 
 
 
 
-![alt text](download-1.png)
+![alt text](img/download-1.png)
 
 **Graphing was completed with assistance from Google Colaboratory
