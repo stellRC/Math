@@ -20,7 +20,7 @@ Summing this infinite series using the formula, it was found that the theoretica
 
 $$
 \
-theoretical Distance = height_0 + 2 height_0 * r / (1 - r)
+theoretical Distance = h_0 + 2 h_0 * r / (1 - r)
 \
 $$
 
