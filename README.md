@@ -5,7 +5,7 @@ A rather bounce-adverse golf ball - the same one that once blew through my grand
 The given formula for r was used to find the ratio between each bounce. The average of these was then used to find the common ratio. 
 
 $$
-r = h_1 / h_0
+r = \frac{h_1}{h_0}
 $$
 
  This was determined to be 0.605 (when rounded). Using proper summation notation, this can be modeled into a single infinite geometric series: 
@@ -20,7 +20,7 @@ Summing this infinite series using the formula, it was found that the theoretica
 
 $$
 \
-theoretical Distance = h_0 + 2 h_0 * r / (1 - r)
+Theoretical Distance = h_0 + \frac{2hr}{1-r}
 \
 $$
 
